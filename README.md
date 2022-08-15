@@ -7,8 +7,9 @@ A new Road Map to the Data science Career
 &emsp;&emsp;&emsp;:tv: [Python1](https://www.youtube.com/watch?v=XKHEtdqhLK8) OR :tv: [Python2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) (Arabic Course) <br> <!--30 days--> 
 &emsp;&emsp;&emsp;:tv: [OOP1](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T) (Arabic Course) <br>
 
-**2. Descriptive Stats.** <br>
+**2. Math.** <br>
 &emsp;&emsp;&emsp;:tv: [Linear Algebra](https://www.youtube.com/playlist?list=PLCpgggEg1JgqgRR7KztwkbYrwIi8AIla4)<br>  <!--30 days-->
+&emsp;&emsp;&emsp;:tv: [Single variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)<br> <!--10 days-->
 
 ## Intermediate
 **1. Advanced Python:** <br>
