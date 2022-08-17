@@ -10,6 +10,7 @@ A new Road Map to the Data science Career
 **2. Math:** <br>
 &emsp;&emsp;&emsp;:tv: [Linear Algebra](https://www.youtube.com/playlist?list=PLCpgggEg1JgqgRR7KztwkbYrwIi8AIla4)<br>  <!--30 days-->
 &emsp;&emsp;&emsp;:tv: [Single variable Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)<br> <!--10 days-->
+&emsp;&emsp;&emsp;:tv: [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) <!--20 days-->
 
 ## Intermediate
 **1. Advanced Python:** <br>
