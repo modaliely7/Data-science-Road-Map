@@ -19,6 +19,6 @@ A new Road Map to the Data science Career
 
 
 **2. Algorithms and Data structure:** <br>
-&emsp;&emsp;&emsp;:tv:[Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)<br>
+&emsp;&emsp;&emsp;:tv:[Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)(still)<br>
 
 ## Advanced
